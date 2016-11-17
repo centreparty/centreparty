@@ -1,0 +1,82 @@
+Introduction to the Centre Party
+================================
+
+Politics is open
+----------------
+
+.. image:: _static/sayno.jpg
+
+For a very long time, the Whigs were the main party of British
+government.
+
+To take another example, in the late 19th and early 20th Century, the
+Midlands was dominated by the 'Liberal Unionist Party'.
+
+Throughout British history, political parties have transformed into
+new forms, or have been replaced by new ones altogether.
+
+There is nothing inevitable about the choices we are offered.
+
+The old approaches
+------------------
+
+.. image:: _static/marx.jpg
+
+In the mid and late 20th Century, the British political landscape was
+dominated by both the Labour party, founded on socialist principles
+from Marx and Lenin, and the Tories, based on privilege and capitalist
+principles from Adam Smith and Hayek.
+
+However, most people are not so ideological. Most people are more
+centrist. We don't want the government to tell us what to do or think
+but we do want a national system of healthcare.
+
+It is contradictory, but that is okay. Approaches which work in one
+area of life do not work necessarily work in another. We want the
+government to regulate train safety but we don't want them to regulate
+sock production.
+
+The UK Liberal Democrats became a spent force when they ran on a
+platform of abolishing student tuition fees and then immediately
+introduced them when in office. Also their MPs have murky connections
+to special interests, especially to financial institutions and
+banks. It seems like their MPs expect to become extinct and are
+getting rich while they can.
+
+Centre Parties
+--------------
+
+.. image:: _static/keskusta.png
+
+The Nordic countries of Finland, Sweden and Norway each have a 'Centre
+Party'. Denmark and Iceland also have something similar under
+different names.
+
+These were invented to replace the farmers' parties which had lost any
+meaning in the era when most people are not farmers.
+
+At one point the UK Liberal Democrats tried to claim itself as a
+Centre Party, and sits with the Centre Parties in the European
+Parliament, however the emphasis is quite different.
+
+The Nordic Centre parties are non-capitalist and non-socialist, are
+often euro-sceptic and believe in political decentralisation. They are
+often supported by small businesses rather than large corporations.
+
+In any case, we just liked the name, whatever a UK Centre Party means,
+we have to decide it for ourselves.
+
+Road to victory
+---------------
+
+.. image:: _static/beach.jpg
+
+The Centre Party is not a registered party (for now). As a first step,
+we need more policies beyond replacing the House of Lords and being
+nicer to chickens, important as those policies are.
+
+We need to discuss policies that are not only different but also
+focused on the benefiting and appealing to the majority. This is the
+Centre Party, not the corner party. The platform needs to be able to
+appeal to at least 50% of the population or it can never even hope to
+gain power.
