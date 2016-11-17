@@ -12,8 +12,9 @@ button on github).
 You then need to clone your fork to your local computer. When you are
 finished, push back the changes to your fork.
 
-If you are not so technical, you can instead edit the source .rst
-files in your fork through the github website.
+If you are not so technical (or you are lazy), you can instead edit
+the source .rst files in your fork through the github website. It
+works a bit like a wiki.
 
 If you want to submit your changes, you need to make a Pull request
 (e.g. by using the button on github).
