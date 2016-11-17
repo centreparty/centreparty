@@ -10,7 +10,7 @@ To make changes you need to fork the site (e.g. by pressing the fork
 button on github).
 
 You then need to clone your fork to your local computer. When you are
-finished, push back the changes yo your fork.
+finished, push back the changes to your fork.
 
 If you are not so technical, you can instead edit the source .rst
 files in your fork through the github website.
